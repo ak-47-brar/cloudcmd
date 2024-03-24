@@ -11,7 +11,7 @@
     "folder",
     "orthodox"
   ],
-  "stack": "heroku-18",
+  "stack": "heroku-20",
   "env": {
       "NPM_CONFIG_PRODUCTION": {
           "description": "Keep false to install devDependencies and build frontend",
